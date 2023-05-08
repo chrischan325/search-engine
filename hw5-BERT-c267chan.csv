@@ -1,0 +1,226 @@
+measure type,topic number,value
+average precision,401,0.138517588
+average precision,402,0.25046067
+average precision,403,0.699816523
+average precision,404,0
+average precision,405,0.034353194
+average precision,406,0.265706757
+average precision,407,0.134083055
+average precision,408,0.100916749
+average precision,409,0.111111111
+average precision,410,0.525113919
+average precision,411,0.08979741
+average precision,412,0.567075693
+average precision,413,0.333333333
+average precision,414,0.025686977
+average precision,415,0.25
+average precision,417,0.301101034
+average precision,418,0.168860041
+average precision,419,0.513392857
+average precision,420,0.624382468
+average precision,421,0.008249158
+average precision,422,0.432871605
+average precision,424,0.039929168
+average precision,425,0.584515005
+average precision,426,0.042216709
+average precision,427,0.130124002
+average precision,428,0.366304348
+average precision,429,0.782258065
+average precision,430,0.871111111
+average precision,431,0.287652266
+average precision,432,0.001466276
+average precision,433,0.00462963
+average precision,434,0.416666667
+average precision,435,0.030173295
+average precision,436,0.131073221
+average precision,438,0.152555053
+average precision,439,0.02764789
+average precision,440,0.543830978
+average precision,441,0.748099415
+average precision,442,0.051598174
+average precision,443,0.131194296
+average precision,445,0.227272727
+average precision,446,0.062163327
+average precision,448,0.058823529
+average precision,449,0.00127551
+average precision,450,0.138194275
+precision at 10,401,0.3
+precision at 10,402,0.5
+precision at 10,403,0.6
+precision at 10,404,0
+precision at 10,405,0.1
+precision at 10,406,0.2
+precision at 10,407,0.3
+precision at 10,408,0.2
+precision at 10,409,0.1
+precision at 10,410,0.2
+precision at 10,411,0.3
+precision at 10,412,0.9
+precision at 10,413,0.1
+precision at 10,414,0
+precision at 10,415,0.1
+precision at 10,417,0.5
+precision at 10,418,0.6
+precision at 10,419,0.2
+precision at 10,420,0.7
+precision at 10,421,0
+precision at 10,422,0.9
+precision at 10,424,0.2
+precision at 10,425,0.9
+precision at 10,426,0.5
+precision at 10,427,0.3
+precision at 10,428,0.2
+precision at 10,429,0.3
+precision at 10,430,0.5
+precision at 10,431,0.5
+precision at 10,432,0
+precision at 10,433,0
+precision at 10,434,0.2
+precision at 10,435,0
+precision at 10,436,0.9
+precision at 10,438,0.2
+precision at 10,439,0
+precision at 10,440,0.6
+precision at 10,441,0.5
+precision at 10,442,0.5
+precision at 10,443,0.2
+precision at 10,445,0.1
+precision at 10,446,0.2
+precision at 10,448,0.1
+precision at 10,449,0
+precision at 10,450,0.3
+ndcg at 10,401,0.30240383
+ndcg at 10,402,0.57368992
+ndcg at 10,403,0.690647883
+ndcg at 10,404,0
+ndcg at 10,405,0.066254223
+ndcg at 10,406,0.249525839
+ndcg at 10,407,0.453742575
+ndcg at 10,408,0.144652492
+ndcg at 10,409,0.301029996
+ndcg at 10,410,0.636682439
+ndcg at 10,411,0.249664029
+ndcg at 10,412,0.779908234
+ndcg at 10,413,0.5
+ndcg at 10,414,0
+ndcg at 10,415,0.39038005
+ndcg at 10,417,0.63254148
+ndcg at 10,418,0.452601638
+ndcg at 10,419,0.636682439
+ndcg at 10,420,0.69691797
+ndcg at 10,421,0
+ndcg at 10,422,0.779908234
+ndcg at 10,424,0.158409153
+ndcg at 10,425,0.926636078
+ndcg at 10,426,0.542042305
+ndcg at 10,427,0.444097328
+ndcg at 10,428,0.541399668
+ndcg at 10,429,0.831872464
+ndcg at 10,430,0.956029045
+ndcg at 10,431,0.470556117
+ndcg at 10,432,0
+ndcg at 10,433,0
+ndcg at 10,434,0.605260244
+ndcg at 10,435,0
+ndcg at 10,436,0.936379212
+ndcg at 10,438,0.204834248
+ndcg at 10,439,0
+ndcg at 10,440,0.675416026
+ndcg at 10,441,0.848698793
+ndcg at 10,442,0.547852739
+ndcg at 10,443,0.224005562
+ndcg at 10,445,0.296081911
+ndcg at 10,446,0.183409805
+ndcg at 10,448,0.220091766
+ndcg at 10,449,0
+ndcg at 10,450,0.249362704
+ndcg at 1000,401,0.361714034
+ndcg at 1000,402,0.522653526
+ndcg at 1000,403,0.897433143
+ndcg at 1000,404,0
+ndcg at 1000,405,0.155712978
+ndcg at 1000,406,0.561003565
+ndcg at 1000,407,0.362752872
+ndcg at 1000,408,0.287978379
+ndcg at 1000,409,0.301029996
+ndcg at 1000,410,0.763861302
+ndcg at 1000,411,0.262177647
+ndcg at 1000,412,0.733564694
+ndcg at 1000,413,0.5
+ndcg at 1000,414,0.182067843
+ndcg at 1000,415,0.39038005
+ndcg at 1000,417,0.575494348
+ndcg at 1000,418,0.412981403
+ndcg at 1000,419,0.703609819
+ndcg at 1000,420,0.839197914
+ndcg at 1000,421,0.085858348
+ndcg at 1000,422,0.568707308
+ndcg at 1000,424,0.19019895
+ndcg at 1000,425,0.847813434
+ndcg at 1000,426,0.163159668
+ndcg at 1000,427,0.351491895
+ndcg at 1000,428,0.611680307
+ndcg at 1000,429,0.909948474
+ndcg at 1000,430,0.956029045
+ndcg at 1000,431,0.551829382
+ndcg at 1000,432,0.026718047
+ndcg at 1000,433,0.067523916
+ndcg at 1000,434,0.605260244
+ndcg at 1000,435,0.195020445
+ndcg at 1000,436,0.255618402
+ndcg at 1000,438,0.458954309
+ndcg at 1000,439,0.144550162
+ndcg at 1000,440,0.801213263
+ndcg at 1000,441,0.900355228
+ndcg at 1000,442,0.163182019
+ndcg at 1000,443,0.349544544
+ndcg at 1000,445,0.426983901
+ndcg at 1000,446,0.249643671
+ndcg at 1000,448,0.157584271
+ndcg at 1000,449,0.03815494
+ndcg at 1000,450,0.406481227
+time based gain,401,2.283893925
+time based gain,402,3.667114702
+time based gain,403,4.244881688
+time based gain,404,0
+time based gain,405,1.060675203
+time based gain,406,2.214276471
+time based gain,407,2.246940598
+time based gain,408,4.155858425
+time based gain,409,0.35208023
+time based gain,410,1.061041926
+time based gain,411,2.02516546
+time based gain,412,8.051038384
+time based gain,413,0.468445288
+time based gain,414,0.296458868
+time based gain,415,0.4928
+time based gain,417,3.737833039
+time based gain,418,4.322349292
+time based gain,419,0.976622366
+time based gain,420,5.720501165
+time based gain,421,0.276679389
+time based gain,422,10.0697538
+time based gain,424,2.468932179
+time based gain,425,6.431302404
+time based gain,426,3.277528494
+time based gain,427,1.660473077
+time based gain,428,1.019725814
+time based gain,429,1.587469201
+time based gain,430,2.09700235
+time based gain,431,4.13298978
+time based gain,432,0.195256619
+time based gain,433,0.064719936
+time based gain,434,0.891756323
+time based gain,435,0.619555663
+time based gain,436,6.125545135
+time based gain,438,1.998330774
+time based gain,439,0.71489814
+time based gain,440,2.861275104
+time based gain,441,2.291453119
+time based gain,442,2.37233957
+time based gain,443,1.586053866
+time based gain,445,0.816782207
+time based gain,446,1.008894743
+time based gain,448,0.4928
+time based gain,449,0.024121327
+time based gain,450,2.388642446
